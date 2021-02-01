@@ -1,0 +1,1 @@
+(()=>{"use strict";new function(){let e=document.getElementById("root"),t=document.createElement("div");t.innerText="header",e.append(t)},new function(){let e=document.getElementById("root"),t=document.createElement("div");t.innerText="sidebar",e.append(t)},new function(){let e=document.getElementById("root"),t=document.createElement("div");t.innerText="content",e.append(t)}})();
