@@ -5,7 +5,7 @@ const devConfig = {
   mode: 'development',
   devtool: 'cheap-module-source-map',
   devServer: {
-    contentBase: '../dist',
+    contentBase: './dist',
     open: true,
     port: 3000,
     hot: true,
